@@ -1,0 +1,7 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab1_Calculator\bin\Debug\Lab1_Calculator.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab1_Calculator\bin\Debug\Lab1_Calculator.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab1_Calculator\obj\x86\Debug\Week10.Form1.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab1_Calculator\obj\x86\Debug\Week10.Properties.Resources.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab1_Calculator\obj\x86\Debug\Lab1_Calculator.csproj.GenerateResource.Cache
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab1_Calculator\obj\x86\Debug\Lab1_Calculator.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab1_Calculator\obj\x86\Debug\Lab1_Calculator.pdb

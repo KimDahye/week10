@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1_Calculator", "Lab1_Calculator\Lab1_Calculator.csproj", "{BA5B5450-45AB-4C38-BC41-32BBD6903A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2_GUIRectangle", "Lab2_GUIRectangle\Lab2_GUIRectangle.csproj", "{551948F5-E1A6-4BAA-870C-8B8082BA0B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_GUIRectangleList", "Lab3_GUIRectangleList\Lab3_GUIRectangleList.csproj", "{6BFD6F40-A8F9-4326-A1A0-B60546B0C7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4_GUIShapes", "Lab4_GUIShapes\Lab4_GUIShapes.csproj", "{59002395-A841-47A3-8E1F-87E588419209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5B5450-45AB-4C38-BC41-32BBD6903A47}.Debug|x86.ActiveCfg = Debug|x86
+		{BA5B5450-45AB-4C38-BC41-32BBD6903A47}.Debug|x86.Build.0 = Debug|x86
+		{BA5B5450-45AB-4C38-BC41-32BBD6903A47}.Release|x86.ActiveCfg = Release|x86
+		{BA5B5450-45AB-4C38-BC41-32BBD6903A47}.Release|x86.Build.0 = Release|x86
+		{551948F5-E1A6-4BAA-870C-8B8082BA0B7A}.Debug|x86.ActiveCfg = Debug|x86
+		{551948F5-E1A6-4BAA-870C-8B8082BA0B7A}.Debug|x86.Build.0 = Debug|x86
+		{551948F5-E1A6-4BAA-870C-8B8082BA0B7A}.Release|x86.ActiveCfg = Release|x86
+		{551948F5-E1A6-4BAA-870C-8B8082BA0B7A}.Release|x86.Build.0 = Release|x86
+		{6BFD6F40-A8F9-4326-A1A0-B60546B0C7CE}.Debug|x86.ActiveCfg = Debug|x86
+		{6BFD6F40-A8F9-4326-A1A0-B60546B0C7CE}.Debug|x86.Build.0 = Debug|x86
+		{6BFD6F40-A8F9-4326-A1A0-B60546B0C7CE}.Release|x86.ActiveCfg = Release|x86
+		{6BFD6F40-A8F9-4326-A1A0-B60546B0C7CE}.Release|x86.Build.0 = Release|x86
+		{59002395-A841-47A3-8E1F-87E588419209}.Debug|x86.ActiveCfg = Debug|x86
+		{59002395-A841-47A3-8E1F-87E588419209}.Debug|x86.Build.0 = Debug|x86
+		{59002395-A841-47A3-8E1F-87E588419209}.Release|x86.ActiveCfg = Release|x86
+		{59002395-A841-47A3-8E1F-87E588419209}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

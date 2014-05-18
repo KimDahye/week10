@@ -1,0 +1,7 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab2_GUIRectangle\bin\Debug\Lab2_GUIRectangle.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab2_GUIRectangle\bin\Debug\Lab2_GUIRectangle.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab2_GUIRectangle\obj\x86\Debug\Lab2_GUIRectangle.Form1.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab2_GUIRectangle\obj\x86\Debug\Lab2_GUIRectangle.Properties.Resources.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab2_GUIRectangle\obj\x86\Debug\Lab2_GUIRectangle.csproj.GenerateResource.Cache
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab2_GUIRectangle\obj\x86\Debug\Lab2_GUIRectangle.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab2_GUIRectangle\obj\x86\Debug\Lab2_GUIRectangle.pdb

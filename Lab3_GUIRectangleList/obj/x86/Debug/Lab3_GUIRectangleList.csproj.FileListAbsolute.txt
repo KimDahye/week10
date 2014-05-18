@@ -1,0 +1,7 @@
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab3_GUIRectangleList\bin\Debug\Lab3_GUIRectangleList.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab3_GUIRectangleList\bin\Debug\Lab3_GUIRectangleList.pdb
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab3_GUIRectangleList\obj\x86\Debug\Lab3_GUIRectangleList.Form1.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab3_GUIRectangleList\obj\x86\Debug\Lab3_GUIRectangleList.Properties.Resources.resources
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab3_GUIRectangleList\obj\x86\Debug\Lab3_GUIRectangleList.csproj.GenerateResource.Cache
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab3_GUIRectangleList\obj\x86\Debug\Lab3_GUIRectangleList.exe
+C:\Users\김다혜\Documents\Visual Studio 2010\Projects\Week10\Lab3_GUIRectangleList\obj\x86\Debug\Lab3_GUIRectangleList.pdb
